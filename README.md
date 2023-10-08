@@ -1,7 +1,5 @@
-# Welcome to streamlit
+# DAZN GPT Agent Prototype
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This prototype app demonstrates a chatbot experience with a DAZN AI capable of answering questions about DAZN programming among other things.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+It uses the Streamlit chatbot UI framework, ChatGPT API, ChatGPT Function Calling, and Python dataframes of DAZN scheduling data.
