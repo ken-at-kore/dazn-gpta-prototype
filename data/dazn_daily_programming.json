@@ -1,0 +1,58 @@
+[
+    {
+        "Type": "schedule",
+        "Title": "NFL Network",
+        "Description": "As well as being your home of Good Morning Football, Total Access and GameDay, NFL Network brings you all the latest news and features from the NFL, 24/7.",
+        "Start": "2023-10-06",
+        "End": "3000-01-01T00:00:00Z",
+        "Payload": {
+            "Description": "As well as being your home of Good Morning Football, Total Access and GameDay, NFL Network brings you all the latest news and features from the NFL, 24/7.",
+            "Start": "2023-10-06",
+            "End": "3000-01-01T00:00:00Z",
+            "ImageURL": "167052357703_image-header_pRow_1686063548000",
+            "EventID": "2xyjgq7ffrrdck7yi3qc2ixbj"
+        }
+    },
+    {
+        "Type": "schedule",
+        "Title": "Red Bull TV",
+        "Description": "Enjoy the best of Red Bull TV 24/7, including live events, hard-hitting documentaries and behind-the-scenes footage from the wonderful world of sport.",
+        "Start": "2023-10-06",
+        "End": "3000-01-01T00:00:00Z",
+        "Payload": {
+            "Description": "Enjoy the best of Red Bull TV 24/7, including live events, hard-hitting documentaries and behind-the-scenes footage from the wonderful world of sport.",
+            "Start": "2023-10-06",
+            "End": "3000-01-01T00:00:00Z",
+            "ImageURL": "130867781972_image-header_pRow_1644417574000",
+            "EventID": "9dvhofe46ytdtb1k89x073qc2"
+        }
+    },
+    {
+        "Type": "schedule",
+        "Title": "Unbeaten: 24/7 Global Sports Channel",
+        "Description": "Unbeaten is a premium sports channel, featuring the biggest events and greatest athletes of all time - we celebrate champions. Recognised for its original documentary programming, select live sport action and and daily analysis of the latest developments in mainstream sport, Unbeaten is the 24/7 showcase of the most significant events, personalities, teams and insights in sport.",
+        "Start": "2023-10-06",
+        "End": "3000-01-01T00:00:00Z",
+        "Payload": {
+            "Description": "Unbeaten is a premium sports channel, featuring the biggest events and greatest athletes of all time - we celebrate champions. Recognised for its original documentary programming, select live sport action and and daily analysis of the latest developments in mainstream sport, Unbeaten is the 24/7 showcase of the most significant events, personalities, teams and insights in sport.",
+            "Start": "2023-10-06",
+            "End": "3000-01-01T00:00:00Z",
+            "ImageURL": "148423749592_image-header_pRow_1680278366000",
+            "EventID": "21308l44ijiw9tdh9ymdzrsn1"
+        }
+    },
+    {
+        "Type": "schedule",
+        "Title": "DAZN 1",
+        "Description": "DAZN 1 is DAZN’s first channel in the UK, giving fans front row seats to the very best action in boxing, MMA, football, daily shows, award winning documentaries and much more.",
+        "Start": "2023-10-06",
+        "End": "3000-01-01T00:00:00Z",
+        "Payload": {
+            "Description": "DAZN 1 is DAZN’s first channel in the UK, giving fans front row seats to the very best action in boxing, MMA, football, daily shows, award winning documentaries and much more.",
+            "Start": "2023-10-06",
+            "End": "3000-01-01T00:00:00Z",
+            "ImageURL": "163818053595_image-header_pRow_1679996050000",
+            "EventID": "82ulhvte9fi1x12svbd1507qr"
+        }
+    }
+]
