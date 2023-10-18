@@ -20,7 +20,7 @@ class AiBotConfigs:
 
     GPT_TEMPERATURE = 0.25
 
-    SHOW_FUNC_CALLING = False # Show function calling in the chat UI?
+    SHOW_FUNC_CALLING = True # Show function calling in the chat UI?
 
     WELCOME_BOT_MESSAGE = """Welcome to DAZN 👋 How's it going? 🙂"""
 
